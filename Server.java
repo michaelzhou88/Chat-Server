@@ -11,7 +11,7 @@ import java.util.*;
 * 	<li> Respond to client requests </li>
 * 	<li> Broadcast chat to all clients </li>
 * </ol>
-* @author Michael Zhou ; Student ID: 201031238 ; Computer Science Username: u6mz
+* @author Michael Zhou
 * @version Dec 10, 2017
 */
 public class Server {
